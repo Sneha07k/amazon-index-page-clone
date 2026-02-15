@@ -21,7 +21,7 @@ Open `index.html` in a browser.
 
 ## Screenshots
 
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/ae9b92ef-55ae-43a0-b984-a3d2418f41e0" />
+<img width="960" height="511" alt="image" src="https://github.com/user-attachments/assets/bf360c5b-5527-4e67-ac55-70962cd5c354" />
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/042a8ccb-f208-4dd4-99b5-3d4691fca52e" />
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/4aacab3e-eedd-4754-b6dc-1c4cfacd25e5" />
 
